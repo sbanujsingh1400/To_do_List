@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="To_do_List:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>To_do_List</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="To_do_List-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="To_do_List:war exploded" />
+    </root>
+  </artifact>
+</component>
